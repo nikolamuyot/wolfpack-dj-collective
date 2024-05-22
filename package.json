@@ -2,7 +2,7 @@
   "name": "dj-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://<username>.github.io/<repository-name>",
+  "homepage": "http://nikolamuyot.github.io/wolfpack-dj-collective",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
