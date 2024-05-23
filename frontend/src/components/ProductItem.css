@@ -1,0 +1,33 @@
+/* src/components/ProductItem.css */
+.product-item {
+  border: 1px solid #ddd;
+  padding: 20px;
+  max-width: 200px;
+}
+
+.product-item img {
+  width: 100%;
+  height: auto;
+}
+
+.product-item h3 {
+  margin: 10px 0;
+}
+
+.product-item p {
+  margin: 5px 0;
+}
+
+.product-item a {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.product-item a:hover {
+  background-color: #0056b3;
+}

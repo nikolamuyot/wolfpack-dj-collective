@@ -1,0 +1,11 @@
+/* src/components/Merchandise.css */
+.merchandise-container {
+  text-align: center;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}

@@ -4,14 +4,14 @@ import React from "react";
 const SoundCloud = () => {
   return (
     <div>
-      <h1>DJ [Your Brother's Name] SoundCloud</h1>
+      <h1>DJ Wolfy</h1>
       <iframe
         width="100%"
         height="300"
         scrolling="no"
         frameborder="no"
         allow="autoplay"
-        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/[Your Brother's SoundCloud ID]&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1523829904&color=%230400ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
       ></iframe>
     </div>
   );

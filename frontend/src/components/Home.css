@@ -1,0 +1,15 @@
+/* src/components/Home.css */
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* 100% of the viewport height */
+  text-align: center;
+}
+
+.home-container h1,
+.home-container p {
+  margin: 0;
+  padding: 10px;
+}
